@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-PasRira_ss
+PasRira_neta
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-PasRiraSS
+PasRiraNeta
 
 # description
 
 > This is the description of the feed.
 
-ぱすりら（うちよそ）のSSを集めたフィード
+ぱすりら（うちよそ）のネタ（R18含む）を集めたフィード
 
 # searchTerms
 
@@ -25,9 +25,7 @@ PasRiraSS
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- #PasRira_SS
-- #Pasco_family
-- #Rira_Place
+- #PasRira_neta
 
 # denyList
 
@@ -48,4 +46,4 @@ true
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](bskyfeedicon.png)
+![](bskyfeedicon02.png)
